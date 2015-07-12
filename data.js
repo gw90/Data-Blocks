@@ -16,7 +16,6 @@
       return myvar;
 
     };
-
     // Block and block menu descriptions
     var descriptor = {
         blocks: [
