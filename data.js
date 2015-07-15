@@ -14,7 +14,6 @@
       var myarr = mystr.split(sep);
       var myvar = myarr[num];
       return myvar;
-
     };
     // Block and block menu descriptions
     var descriptor = {
